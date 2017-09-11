@@ -1,1 +1,3 @@
-# android_udemy_intntservice
+# Android Intent service
+
+# Proyecto donde se muestra como usar los intent services
